@@ -1,0 +1,10 @@
+labels/
+openpose/
+video/
+__pycache__/
+*.mp4
+*.mov
+*.pyc
+*.txt
+txt.md
+project_structure.txt
